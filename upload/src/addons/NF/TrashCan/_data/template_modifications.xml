@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="thread_view" modification_key="nf_trashcan_thread_view" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<!--[XF:thread_tools_menu:before_footer]-->]]></find>
+    <replace><![CDATA[<xf:if is="$thread.canTrash()">
+	<a href="{{ link('threads/trash', $thread) }}" data-xf-click="overlay" class="menu-linkRow">{{ phrase('nf_trashcan_trash_thread') }}</a>
+</xf:if>
+
+$0]]></replace>
+  </modification>
+</template_modifications>

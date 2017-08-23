@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="nf_trashcan_trash_forum" edit_format="callback" data_type="unsigned_integer">
+    <default_value>0</default_value>
+    <edit_format_params>\XF\Option\Forum::renderSelect</edit_format_params>
+    <relation group_id="nf_trashcan" display_order="1"/>
+  </option>
+  <option option_id="nf_trashcan_trash_mode" edit_format="radio" data_type="string">
+    <default_value>delete-trash</default_value>
+    <edit_format_params>delete-trash={{ phrase('nf_trashcan_delete_trash') }}
+trash={{ phrase('nf_trashcan_trash_only') }}</edit_format_params>
+    <relation group_id="nf_trashcan" display_order="10"/>
+  </option>
+</options>

@@ -1,0 +1,15 @@
+{
+    "src/addons/NF/TrashCan/addon.json": "5ae1e8ad2010d3d7f3dba1f7c15468624ab4a5f84709fa22ce4cf8cb48286316",
+    "src/addons/NF/TrashCan/InlineMod/Thread/Trash.php": "a10be7931fc114cb58c3a474e96449efad27cf002e2adb4a4429027da94b9ed7",
+    "src/addons/NF/TrashCan/Service/Thread/Trasher.php": "177cc46be07cf38bbe0e365f7e8b80f62169421c6b0477d5c3a7dd610c67c155",
+    "src/addons/NF/TrashCan/XF/Entity/Thread.php": "14aff1ab3d599d9924fbdf50e9b740a2684f829e08dbb74aebb576d9c19590e9",
+    "src/addons/NF/TrashCan/XF/InlineMod/Thread.php": "8d84ca43358bc6b9382b5c5e0f25fe389717c146ef7cfaf5fc521ab13fadf82e",
+    "src/addons/NF/TrashCan/XF/Pub/Controller/Thread.php": "f862ad8a65bda1807f8a9c53613bb10d1ba54af5e043bae1d1287b1d96f96e5c",
+    "src/addons/NF/TrashCan/_data/class_extensions.xml": "b3f33b6365879749a62dfece26e6e17d6d0a0a178058b23996388472a946964a",
+    "src/addons/NF/TrashCan/_data/options.xml": "229e57bd76e22db21170242da9dfe36f3fba737bea5dd4d57aa5d178926feb64",
+    "src/addons/NF/TrashCan/_data/option_groups.xml": "29400595898c213fea96132878f7ededfd531f1b59c32427adb663886724a8fc",
+    "src/addons/NF/TrashCan/_data/permissions.xml": "80b71511253bd20309d4d0b667f13f3a81b624e6437b6acf0f3274b75777697f",
+    "src/addons/NF/TrashCan/_data/phrases.xml": "6a9aa78ad4f28f104c92806c7ba4dce38fbfbd638d8cd6588066c2dc84a93dc8",
+    "src/addons/NF/TrashCan/_data/templates.xml": "894e69d053bbaa7316b0b2b0775d8f338739f5b8185372fdd01558a9e8df4dec",
+    "src/addons/NF/TrashCan/_data/template_modifications.xml": "4167aa29bcd125740f5b7edc4a36b4be0f5250dfb6a99e42234c8b3ea45d50e6"
+}

@@ -1,0 +1,12 @@
+{
+    "public/nf_trashcan_inline_mod_thread_trash.html": {
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "d060a5e0b9253f445536143e30142b0b"
+    },
+    "public/nf_trashcan_thread_trash.html": {
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "abbc031ef3f6dc3e190d2d331d3d099c"
+    }
+}

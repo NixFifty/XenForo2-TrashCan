@@ -1,0 +1,1 @@
+Soft delete and move to trash forum

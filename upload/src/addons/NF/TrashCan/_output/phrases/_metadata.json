@@ -1,0 +1,98 @@
+{
+    "mod_log.thread_nf_trash.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "e105873d7d0ce88c6dff701115a9eaa6"
+    },
+    "nf_trashcan_cannot_trash_trashed_thread.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "6c61caf386a2e50bf5b64533288731d2"
+    },
+    "nf_trashcan_delete_trash.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "0635a71c792216377ce786b8ae1de49d"
+    },
+    "nf_trashcan_inline_moderation_trash_threads.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "f5ca1b6feed0cdc96ee5d0404277874a"
+    },
+    "nf_trashcan_reason_for_trashing.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "7ec93d2fffb1c10c8f391eba36fd9e17"
+    },
+    "nf_trashcan_sure_you_want_trash_x_threads.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "f067db68a5aadc68abe85142ba7a94c0"
+    },
+    "nf_trashcan_trash.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "a7e253cd8dd95da3e20daf45519a8dc2"
+    },
+    "nf_trashcan_trash_only.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "3d4ea77fed6d63c53e1e18e20586c97f"
+    },
+    "nf_trashcan_trash_thread.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "abb4c057c007c9f71f161bf8779fb04a"
+    },
+    "option.nf_trashcan_trash_forum.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "70c0e8380625e7461004754d6767de7d"
+    },
+    "option.nf_trashcan_trash_mode.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "ddaacafa05b9fa0b9d8d2d1f65fa1e42"
+    },
+    "option_explain.nf_trashcan_trash_forum.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "c90a717adf90676d2b1b660921e71735"
+    },
+    "option_explain.nf_trashcan_trash_mode.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "5c4ed9ce561594d1ab05f99337a09dd7"
+    },
+    "option_group.nf_trashcan.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "b5968239490c16c19256e5827cd5f01e"
+    },
+    "option_group_description.nf_trashcan.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "permission.forum_trash.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "f5ca1b6feed0cdc96ee5d0404277874a"
+    }
+}

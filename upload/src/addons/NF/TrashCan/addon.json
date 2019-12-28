@@ -2,14 +2,14 @@
     "legacy_addon_id": "nixfifty_trash_can",
     "title": "Trash Can",
     "description": "Delete and move threads to a specific Trash Can forum with two clicks.",
-    "version_id": 2000070,
-    "version_string": "2.0.0",
+    "version_id": 2000170,
+    "version_string": "2.0.1",
     "dev": "NixFifty",
     "dev_url": "https://nixfifty.com/",
     "faq_url": "",
     "support_url": "http://nixfifty.com/tickets/",
     "extra_urls": {
-      "GitHub": "https://github.com/NixFifty/XenForo2-TrashCan/"
+        "GitHub": "https://github.com/NixFifty/XenForo2-TrashCan/"
     },
     "require": [],
     "icon": "fa-trash"

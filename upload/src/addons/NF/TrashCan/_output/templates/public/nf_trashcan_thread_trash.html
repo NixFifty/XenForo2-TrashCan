@@ -1,0 +1,15 @@
+<xf:title>{{ phrase('nf_trashcan_trash_thread') }}</xf:title>
+
+<xf:breadcrumb source="$thread.getBreadcrumbs()"/>
+
+<xf:form action="{{ link('threads/trash', $thread) }}" class="block" ajax="true">
+    <div class="block-container">
+        <div class="block-body">
+            <xf:textboxrow name="reason" maxlength="{{ max_length('XF:DeletionLog', 'delete_reason') }}"
+                           label="{{ phrase('nf_trashcan_reason_for_trashing') }}"/>
+
+            <xf:macro template="helper_action" name="thread_alert"/>
+        </div>
+        <xf:submitrow icon="delete" submit="{{ phrase('nf_trashcan_trash') }}" />
+    </div>
+</xf:form>

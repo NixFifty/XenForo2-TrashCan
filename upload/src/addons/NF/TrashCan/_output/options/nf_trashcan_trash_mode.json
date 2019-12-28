@@ -1,0 +1,12 @@
+{
+    "edit_format": "radio",
+    "edit_format_params": "delete-trash={{ phrase('nf_trashcan_delete_trash') }}\ntrash={{ phrase('nf_trashcan_trash_only') }}",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "delete-trash",
+    "relations": {
+        "nf_trashcan": 10
+    }
+}

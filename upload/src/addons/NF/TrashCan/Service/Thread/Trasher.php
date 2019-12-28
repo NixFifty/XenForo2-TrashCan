@@ -95,7 +95,14 @@ class Trasher extends AbstractService
 
 		if ($type == 'delete-trash')
 		{
-			$result = $this->thread->softDelete($reason, $user);
+		    if ($this->thread->discussion_state == 'deleted')
+            {
+                $result = true;
+            }
+		    else
+            {
+                $result = $this->thread->softDelete($reason, $user);
+            }
 		}
 
 		if ($result)
